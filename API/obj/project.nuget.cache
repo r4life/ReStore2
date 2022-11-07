@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6khkez06JuIqyYneQvCFna6gxQLwlVQPmfLt0CyjcIcIbENXTxu1Fdmp6fK0zlJ6u9fFLXWF5YOBxtajSiW2zg==",
+  "dgSpecHash": "snAxR4vTMwnMZeZj/+7UOUzjDbDpLbsD3b3PEykZe+O8ieLSug9xHPd7p1p8ZN2T2YxmDASc76CgNSRR81Fkzw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\r4lif\\OneDrive\\Desktop\\CODE_STUDY\\fullStackProjects\\dotnet2\\ReStore\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\r4lif\\OneDrive\\Desktop\\CODE_STUDY\\fullStackProjects\\dotnet2\\ReStore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r4lif\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\r4lif\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
